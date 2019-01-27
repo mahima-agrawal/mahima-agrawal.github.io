@@ -1,0 +1,13 @@
+body {
+	background-color: lightgreen;
+}
+h1 {
+	color: darkgreen;
+	font-family: verdana;
+	font-size: 300%;
+}
+h2 {
+	color: grey;
+	font-family: courier;
+	font-size: 200%;
+}
