@@ -1,13 +1,46 @@
-body {
-	background-color: lightgreen;
+body{
+	background-color: #FFE796;
+	text-align: center;
 }
+
+#name {
+	margin-top: 5%;
+}
+
 h1 {
-	color: darkgreen;
-	font-family: verdana;
-	font-size: 300%;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 250%;
 }
-h2 {
-	color: grey;
-	font-family: courier;
-	font-size: 200%;
+
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+a {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 150%;
+	padding-right: 10px;
+}
+
+a:link {
+	color: black;
+}
+a:visited {
+	color: black;
+}
+a:hover {
+	color: ivory;
+}
+
+#abouttext {
+	padding-right: 150px;
+	padding-left: 150px;
+	word-spacing: 5px;
+	line-height: 30px;
+}
+
+#buttons {
+	font-size: 70%;
 }
