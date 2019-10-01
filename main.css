@@ -34,6 +34,11 @@ a:hover {
 	color: ivory;
 }
 
+.block-text{
+	width: 600;
+	text-align: center;
+}
+
 #abouttext {
 	padding-right: 200px;
 	padding-left: 200px;
