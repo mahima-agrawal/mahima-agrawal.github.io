@@ -5,6 +5,12 @@ body{
 
 #name {
 	margin-top: 5%;
+	transition: 1.0s;
+}
+
+#name:hover {
+	color: ivory;
+	transform: scale(1.1);
 }
 
 h1 {
