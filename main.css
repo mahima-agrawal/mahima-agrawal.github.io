@@ -1,6 +1,7 @@
-body{
+body {
 	background-color: #FFE796;
 	margin: 8px 96px;
+	text-align: left;
 }
 
 #name {
@@ -40,9 +41,8 @@ a:hover {
 	color: ivory;
 }
 
-.block-text{
+.block-text {
 	width: 600;
-	text-align: center;
 }
 
 #buttons {
